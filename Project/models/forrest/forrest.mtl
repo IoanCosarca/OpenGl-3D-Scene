@@ -1,0 +1,68 @@
+# Blender 3.4.1 MTL File: 'Map.blend'
+# www.blender.org
+
+newmtl Bark01
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Bark01_baseColor.png
+map_Bump -bm 1.000000 Bark01_normal.png
+
+newmtl Leaf01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Leaf01_baseColor.png
+map_d Leaf01_baseColor.png
+map_Bump -bm 1.000000 Leaf01_normal.png
+
+newmtl Leaf02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Leaf02_baseColor.png
+map_d Leaf02_baseColor.png
+map_Bump -bm 1.000000 Leaf02_normal.png
+
+newmtl Leaf03
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Leaf03_baseColor.png
+map_d Leaf03_baseColor.png
+map_Bump -bm 1.000000 Leaf03_normal.png
+
+newmtl Leaf05
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Leaf05_baseColor.png
+map_d Leaf05_baseColor.png
+map_Bump -bm 1.000000 Leaf05_normal.png
+
+newmtl Leaf06
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Leaf06_baseColor.png
+map_d Leaf06_baseColor.png
+map_Bump -bm 1.000000 Leaf06_normal.png
